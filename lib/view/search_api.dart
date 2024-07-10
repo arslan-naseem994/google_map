@@ -31,7 +31,7 @@ class _SearchApiScreenState extends State<SearchApiScreen> {
   }
 
   void getSuggestion(String input) async {
-    const String placesApiKey = "AIzaSyBJ_XlxltqRMHEaqUxKak6LkIb0jt4qRWM";
+    const String placesApiKey = "AIzaSyBJ_Xlxltq994RMHEaqUxKak61012LkIb0jt4qRWM";
 
     try {
       String baseURL =
